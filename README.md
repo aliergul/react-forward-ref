@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Forward Ref Example
 
-Currently, two official plugins are available:
+Bu projede Vite ile bir React projesi oluşturarak bir forwardRef component örneği oluşturdum. Buradaki amacım basit bir forwardRef kullanımını örneklemekti. Bunu da basit bir input elemanı örneği ile yaptım.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 📷 Ekran Görüntüleri
+
+![image](https://github.com/user-attachments/assets/cce338e3-0d87-4a48-a87c-80578403591c)
+![image](https://github.com/user-attachments/assets/e5e23a79-def1-4121-b05a-e1383850b500)
+
+
+
+
+
+
