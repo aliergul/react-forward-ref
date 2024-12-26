@@ -1,7 +1,7 @@
 
 # React Forward Ref Example
 
-Bu projede Vite ile bir React projesi oluşturarak bir forwardRef component örneği oluşturdum. Buradaki amacım basit bir forwardRef kullanımını örneklemekti. Bunu da basit bir input elemanı örneği ile yaptım.
+Bu projede Vite ile bir React projesi oluşturarak bir forwardRef component örneği oluşturdum. Buradaki amacım basit bir *forwardRef* kullanımını örneklemekti. Bunu da basit bir input elemanı örneği ile yaptım.
 
 
 ## 📷 Ekran Görüntüleri
